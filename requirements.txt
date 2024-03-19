@@ -1,0 +1,6 @@
+tk
+openpyxl
+datetime
+pymysql
+tkcalendar
+pyinstaller
